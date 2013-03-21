@@ -1,0 +1,43 @@
+\BOOKMARK [0][]{section*.3}{List of Figures}{}
+\BOOKMARK [0][]{chapter.1}{1 Introduction}{}
+\BOOKMARK [1][]{section.1.1}{1.1 Introduction}{chapter.1}
+\BOOKMARK [2][]{subsection.1.1.1}{1.1.1 Motivation}{section.1.1}
+\BOOKMARK [2][]{subsection.1.1.2}{1.1.2 Contributions}{section.1.1}
+\BOOKMARK [2][]{subsection.1.1.3}{1.1.3 Outline}{section.1.1}
+\BOOKMARK [0][]{chapter.2}{2 State of the Art}{}
+\BOOKMARK [1][]{section.2.1}{2.1 Cloud computing}{chapter.2}
+\BOOKMARK [1][]{section.2.2}{2.2 Mobile technologies}{chapter.2}
+\BOOKMARK [2][]{subsection.2.2.1}{2.2.1 Mobile platforms}{section.2.2}
+\BOOKMARK [3][]{subsubsection.2.2.1.1}{2.2.1.1 Android Platform}{subsection.2.2.1}
+\BOOKMARK [3][]{subsubsection.2.2.1.2}{2.2.1.2 iOS Platform}{subsection.2.2.1}
+\BOOKMARK [1][]{section.2.3}{2.3 Mobile Cloud Services}{chapter.2}
+\BOOKMARK [2][]{subsection.2.3.1}{2.3.1 Synchronization in mobile cloud services}{section.2.3}
+\BOOKMARK [3][]{subsubsection.2.3.1.1}{2.3.1.1 Funambol}{subsection.2.3.1}
+\BOOKMARK [0][]{chapter.3}{3 Problem Statement}{}
+\BOOKMARK [1][]{section.3.1}{3.1 Research Question}{chapter.3}
+\BOOKMARK [2][]{subsection.3.1.1}{3.1.1 Mobile Cloud Interoperability}{section.3.1}
+\BOOKMARK [2][]{subsection.3.1.2}{3.1.2 Mobile Platform Integration with Cloud Resources}{section.3.1}
+\BOOKMARK [2][]{subsection.3.1.3}{3.1.3 Cloud Services Invocation from the Mobile Device}{section.3.1}
+\BOOKMARK [2][]{subsection.3.1.4}{3.1.4 Summary}{section.3.1}
+\BOOKMARK [0][]{chapter.4}{4 Mobile Cloud Middleware}{}
+\BOOKMARK [1][]{section.4.1}{4.1 A Generic Middleware Framework for Mobile Cloud Services}{chapter.4}
+\BOOKMARK [2][]{subsection.4.1.1}{4.1.1 MCM architecture and realization}{section.4.1}
+\BOOKMARK [2][]{subsection.4.1.2}{4.1.2 Asynchronicity for handling process intensive mobile cloud services}{section.4.1}
+\BOOKMARK [3][]{subsubsection.4.1.2.1}{4.1.2.1 MCM and AC2DM}{subsection.4.1.2}
+\BOOKMARK [3][]{subsubsection.4.1.2.2}{4.1.2.2 MCM and APNS}{subsection.4.1.2}
+\BOOKMARK [1][]{section.4.2}{4.2 Analysis of MCM}{chapter.4}
+\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 Performance model of the MCM}{section.4.2}
+\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Performance analysis of the MCM}{section.4.2}
+\BOOKMARK [1][]{section.4.3}{4.3 Related work}{chapter.4}
+\BOOKMARK [1][]{section.4.4}{4.4 Summary}{chapter.4}
+\BOOKMARK [0][]{chapter.5}{5 Case Studies}{}
+\BOOKMARK [1][]{section.5.1}{5.1 Zompopo: Mobile Calendar Prediction based on Human Activities Recognition using the Accelerometer and Cloud Services}{chapter.5}
+\BOOKMARK [2][]{subsection.5.1.1}{5.1.1 Human Activities Recognition Using the Accelerometer and Hadoop Processing Service}{section.5.1}
+\BOOKMARK [2][]{subsection.5.1.2}{5.1.2 Zompopo Performance Model: Asynchronous Service Invocation}{section.5.1}
+\BOOKMARK [1][]{section.5.2}{5.2 CroudSTag: Social Group Formation with Facial Recognition and Mobile Cloud Services}{chapter.5}
+\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Cloud services employed in the application}{section.5.2}
+\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 CroudSTag Performance analysis of the application}{section.5.2}
+\BOOKMARK [1][]{section.5.3}{5.3 Summary}{chapter.5}
+\BOOKMARK [0][]{chapter.6}{6 Conclusions}{}
+\BOOKMARK [0][]{chapter.7}{7 Future Research Directions}{}
+\BOOKMARK [0][]{section*.5}{Bibliography}{}

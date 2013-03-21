@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{paper:cloudcomputing}
+{\sc {M. Armbrust et al.}}
+\newblock {\bf Above the Clouds, A Berkeley View of Cloud Computing}.
+\newblock Technical report, University of California, Feb 2009.
+
+\bibitem{iphone:platform}
+{\sc {Apple Inc}}.
+\newblock {\bf {IPhone}}.
+\newblock http://www.apple.com/iphone/.
+
+\bibitem{android:platform}
+{\sc {Google Inc}}.
+\newblock {\bf {Android}}.
+\newblock http://www.android.com/.
+
+\bibitem{paper:aampl}
+{\sc A.~Ofstad, E.~Nicholas, R.~Szcodronski, and R.R. Choudhury}.
+\newblock {\bf Aampl: Accelerometer augmented mobile phone localization}.
+\newblock In {\em Proceedings of the first ACM international workshop on Mobile
+  entity localization and tracking in GPS-less environments}, pages 13--18.
+  ACM, 2008.
+
+\bibitem{paper:metrosense}
+{\sc S.B. Eisenman, N.D. Lane, E.~Miluzzo, R.A. Peterson, G.S. Ahn, and A.T.
+  Campbell}.
+\newblock {\bf Metrosense project: People-centric sensing at scale}.
+\newblock In {\em First Workshop on World-Sensor-Web (WSW’2006)}. Citeseer,
+  2006.
+
+\bibitem{paper:placeits}
+{\sc T.~Sohn, K.A. Li, G.~Lee, I.~Smith, J.~Scott, and W.G. Griswold}.
+\newblock {\bf Place-its: A study of location-based reminders on mobile
+  phones}.
+\newblock {\em UbiComp 2005: Ubiquitous Computing}, pages 232--250, 2005.
+
+\bibitem{SriramaETAL:SciCloud.10}
+{\sc Satish~Narayana Srirama, Oleg Batrashev, and Eero Vainikko}.
+\newblock {\bf {SciCloud: Scientific Computing on the Cloud}}.
+\newblock In {\em The 10th IEEE/ACM International Symposium on Cluster, Cloud
+  and Grid Computing(CCGrid 2010)}, page 579, 2010.
+
+\bibitem{htc:arena}
+{\sc {Gsm Arena}}.
+\newblock {\bf {Gsm Arena - HTC Desire}}.
+\newblock http://www.gsmarena.com/htc{\_}desire-3077.php, 2011.
+
+\end{thebibliography}

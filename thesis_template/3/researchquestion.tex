@@ -1,0 +1,45 @@
+% this file is called up by thesis.tex
+% content in this file will be fed into the main document
+
+%: ----------------------- name of chapter  -------------------------
+\chapter{Problem Statement} % top level followed by section, subsection
+
+
+%transition between chapters, usually no more than two parragraphs
+Transition - Since the establishment of SyncML by the Open Handset Alliance (OHA); the synchronization of data is the adopted approach for supplying cloud resources to the handset... 
+
+
+
+%: ----------------------- paths to graphics ------------------------
+
+% change according to folder and file names
+\ifpdf
+    \graphicspath{{X/figures/PNG/}{X/figures/PDF/}{X/figures/}}
+\else
+    \graphicspath{{X/figures/EPS/}{X/figures/}}
+\fi
+
+%: ----------------------- Mobile Cloud Middleware ------------------------
+
+\section{Research Question}
+Engineering theses tend to refer to a problem to be solved where other disciplines talk in terms of a question to be answered. In either case, this section has three main parts: 
+1. a concise statement of the question that your thesis tackles 
+2. justification, by direct reference to section 3, that your question is previously unanswered
+3. discussion of why it is worthwhile to answer this question. 
+
+
+
+
+%Summary of each chapter is MANDATORY
+\section{Summary}
+%example
+To counter the problems with the interoperability across multiple clouds, to perform data-intensive processing invocation from the handset and to introduce the platform independence feature for the mobile cloud applications, the following thesis discusses a Mobile Cloud Middleware (MCM)~\cite{chen2000survey}. The middleware provides a unique interface for mobile connection and multiple internal interfaces and adapters, which manage the connection and communication between different clouds. The MCM capabilities for managing the resource intensive tasks can easily be envisioned in several scenarios which are discussed in further sections as case of study. 
+
+
+
+
+
+% ---------------------------------------------------------------------------
+%: ----------------------- end of thesis sub-document ------------------------
+% ---------------------------------------------------------------------------
+

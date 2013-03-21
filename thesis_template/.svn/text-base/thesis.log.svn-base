@@ -1,0 +1,691 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.10.2)  22 MAY 2011 12:13
+entering extended mode
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(./Latex/Classes/PhDthesisPSnPDF.cls
+Document Class: Latex/Classes/PhDthesisPSnPDF 2007/09/06 v2 PhD thesis class
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo
+File: bk11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2007/01/07 v3.0k Customising captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2007/01/07 v3.0k caption3 kernel (AR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\captionmargin=\dimen103
+\captionmarginx=\dimen104
+\captionwidth=\dimen105
+\captionindent=\dimen106
+\captionparindent=\dimen107
+\captionhangindent=\dimen108
+))
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/eucal.sty
+Package: eucal 2001/10/01 v2.2d Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 55.
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2005/11/23 v3.8h The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2005/11/23 v3.8h Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen109
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/share/texmf-texlive/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2005/03/17 v5.3d a miscellany of footnote facilities
+\FN@temptoken=\toks16
+\footnotemargin=\dimen110
+\c@pp@next@reset=\count90
+\c@@fnserial=\count91
+Package footmisc Info: Declaring symbol style bringhurst on input line 817.
+Package footmisc Info: Declaring symbol style chicago on input line 818.
+Package footmisc Info: Declaring symbol style wiley on input line 819.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 823.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 831.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 840
+.
+)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2007/02/05 8.0 (PWD)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 602.
+\c@NAT@ctr=\count92
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2006/05/18 v1.6g multicolumn formatting (FMi)
+\c@tracingmulticols=\count93
+\mult@box=\box26
+\multicol@leftmargin=\dimen111
+\c@unbalance=\count94
+\c@collectmore=\count95
+\doublecol@number=\count96
+\multicoltolerance=\count97
+\multicolpretolerance=\count98
+\full@width=\dimen112
+\page@free=\dimen113
+\premulticols=\dimen114
+\postmulticols=\dimen115
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count99
+\c@finalcolumnbadness=\count100
+\last@try=\dimen116
+\multicolovershoot=\dimen117
+\multicolundershoot=\dimen118
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+)
+(/usr/share/texmf-texlive/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2003/03/13 v1.5g extra ToC listings
+
+
+Package tocbibind Note: The document has chapter divisions.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texmf-texlive/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen119
+\nom@tempdim=\dimen120
+\nomitemsep=\skip56
+)
+\@nomenclaturefile=\write3
+\openout3 = `thesis.nlo'.
+
+
+Writing nomenclature file thesis.nlo
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2006/02/20 v1.4 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen121
+\Hy@linkcounter=\count101
+\Hy@pagecounter=\count102
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/etc/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 2238.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 2238.
+
+
+Package hyperref Warning: Values of option `pdfpagelayout':
+(hyperref)                * `SinglePage'
+(hyperref)                * `OneColumn'
+(hyperref)                * `TwoColumnLeft'
+(hyperref)                * `TwoColumnRight'
+(hyperref)                * `TwoPageLeft' (PDF 1.5)
+(hyperref)                * `TwoPageRight' (PDF 1.5)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `useoutlines' on input line 2238.
+
+Package hyperref Info: Option `bookmarks' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 2238
+.
+Package hyperref Info: Option `breaklinks' set `true' on input line 2238.
+Package hyperref Info: Option `linktocpage' set `true' on input line 2238.
+Package hyperref Info: Option `colorlinks' set `false' on input line 2238.
+Package hyperref Info: Option `hyperindex' set `true' on input line 2238.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 2238.
+Package hyperref Info: Hyper figures ON on input line 2286.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing ON on input line 2306.
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+(/usr/share/texmf-texlive/tex/latex/hyperref/backref.sty
+Package: backref 2006/10/06 v1.27 Bibliographical back referencing
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count103
+\Field@Width=\dimen122
+\Fld@charsize=\dimen123
+\Choice@toks=\toks17
+\Field@toks=\toks18
+Package hyperref Info: Hyper figures ON on input line 3100.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing ON on input line 3115.
+Package hyperref Info: Link coloring OFF on input line 3122.
+\Hy@abspage=\count104
+\c@Item=\count105
+\c@Hfootnote=\count106
+)
+*hyperref using driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count107
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+))
+\@input{Latex/Macros/MacroFile1.aux}
+\openout2 = `Latex/Macros/MacroFile1.aux'.
+
+(./Latex/Macros/MacroFile1.tex) (./thesis.aux (./title_page/stardard_page.aux)
+(./0_frontmatter/abstract.aux) (./1_introduction/introduction.aux)
+(./2/stateofart.aux
+
+LaTeX Warning: Label `fig:cloudApproaches' multiply defined.
+
+
+LaTeX Warning: Label `fig:cloudApproaches' multiply defined.
+
+
+LaTeX Warning: Label `fig:cloudApproaches' multiply defined.
+
+) (./3/researchquestion.aux) (./3/mcm.aux) (./4/casestudies.aux
+
+LaTeX Warning: Label `eqn:mcs:mware:times' multiply defined.
+
+) (./5/conclusions.aux) (./6/futureresearch.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+
+(/usr/share/texmf-texlive/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
+
+(/usr/share/texmf-texlive/tex/latex/everysel/everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 125.
+)
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
+)
+Package caption Info: hyperref package v6.74m (or newer) detected on input line
+ 97.
+Package hyperref Info: Link coloring OFF on input line 97.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count108
+)
+LaTeX Info: Redefining \ref on input line 97.
+LaTeX Info: Redefining \pageref on input line 97.
+ (./thesis.out)
+(./thesis.out)
+\@outlinefile=\write4
+\openout4 = `thesis.out'.
+
+Package backref Info: ** backref set up for natbib ** on input line 97.
+\openout2 = `title_page/stardard_page.aux'.
+
+ (./title_page/stardard_page.tex
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \hbox{}\\
+              [6cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [1
+
+
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `0_frontmatter/abstract.aux'.
+
+ (./0_frontmatter/abstract.tex [2
+
+
+] [3]) [4
+\FN@pp@footnotehinttrue 
+
+
+] (./thesis.toc [5])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+ [6] (./thesis.lof)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ [7
+
+] [8]
+\openout2 = `1_introduction/introduction.aux'.
+
+
+(./1_introduction/introduction.tex
+ 1.
+[1
+
+
+
+] [2] [3]) [4]
+\openout2 = `2/stateofart.aux'.
+
+ (./2/stateofart.tex
+ 2.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+[5
+
+
+
+] <2/figures/Cloud/cloudApproaches.png, id=340, 193.72375pt x 239.89626pt>
+File: 2/figures/Cloud/cloudApproaches.png Graphic file (type png)
+
+<use 2/figures/Cloud/cloudApproaches.png>
+
+LaTeX Warning: Reference `fig:CloudServices' on page 6 undefined on input line 
+36.
+
+
+Package natbib Warning: Citation `Amazon:EC2' on page 6 undefined on input line
+ 36.
+
+
+Package natbib Warning: Citation `Google:AppEngine:Java' on page 6 undefined on
+ input line 36.
+
+
+Package natbib Warning: Citation `Google:AppEngine:Java' on page 6 undefined on
+ input line 38.
+
+[6 <./2/figures/Cloud/cloudApproaches.png (PNG copy)>]
+
+Package natbib Warning: Citation `Euca:site' on page 7 undefined on input line 
+40.
+
+[7] [8]
+<2/figures/Android/system-architecture.jpg, id=358, 725.75366pt x 521.15831pt>
+File: 2/figures/Android/system-architecture.jpg Graphic file (type jpg)
+
+<use 2/figures/Android/system-architecture.jpg> [9 <./2/figures/Android/system-
+architecture.jpg>]
+<2/figures/iOS/Iphone_os_architecture.png, id=363, 216.81pt x 231.264pt>
+File: 2/figures/iOS/Iphone_os_architecture.png Graphic file (type png)
+
+<use 2/figures/iOS/Iphone_os_architecture.png> [10 <./2/figures/iOS/Iphone_os_a
+rchitecture.png>]
+<2/figures/Cloud/synchronization.png, id=369, 579.16376pt x 353.32pt>
+File: 2/figures/Cloud/synchronization.png Graphic file (type png)
+
+<use 2/figures/Cloud/synchronization.png> [11]) [12 <./2/figures/Cloud/synchron
+ization.png (PNG copy)>]
+\openout2 = `3/researchquestion.aux'.
+
+ (./3/researchquestion.tex
+ 3.
+[13
+
+
+
+] [14] [15] [16]) [17]
+\openout2 = `3/mcm.aux'.
+
+ (./3/mcm.tex [18
+
+
+
+]
+ 4.
+[19] [20]
+<3/figures/MCMArchitectureAsync.png, id=414, 662.475pt x 296.10625pt>
+File: 3/figures/MCMArchitectureAsync.png Graphic file (type png)
+
+<use 3/figures/MCMArchitectureAsync.png> [21 <./3/figures/MCMArchitectureAsync.
+png (PNG copy)>] [22] [23] [24]
+<3/figures/TimestampsMCM.png, id=433, 850.8588pt x 461.0826pt>
+File: 3/figures/TimestampsMCM.png Graphic file (type png)
+
+<use 3/figures/TimestampsMCM.png> [25] [26 <./3/figures/TimestampsMCM.png>]
+[27] <3/figures/ApplicationDiagram.png, id=468, 554.82281pt x 460.72125pt>
+File: 3/figures/ApplicationDiagram.png Graphic file (type png)
+
+<use 3/figures/ApplicationDiagram.png>
+<3/figures/AnalysisAmazon.png, id=472, 362.3136pt x 217.2918pt>
+File: 3/figures/AnalysisAmazon.png Graphic file (type png)
+
+<use 3/figures/AnalysisAmazon.png>
+<3/figures/AnalysisScicloud.png, id=473, 362.3136pt x 217.2918pt>
+File: 3/figures/AnalysisScicloud.png Graphic file (type png)
+
+<use 3/figures/AnalysisScicloud.png> [28 <./3/figures/ApplicationDiagram.png (P
+NG copy)>] [29 <./3/figures/AnalysisAmazon.png> <./3/figures/AnalysisScicloud.p
+ng>] [30] [31]) [32]
+\openout2 = `4/casestudies.aux'.
+
+ (./4/casestudies.tex
+ 5.
+(./4/Zompopo.tex [33
+
+
+
+]
+<4/figures/Zompopo/zompopoFlow.png, id=504, 713.66624pt x 526.21594pt>
+File: 4/figures/Zompopo/zompopoFlow.png Graphic file (type png)
+
+<use 4/figures/Zompopo/zompopoFlow.png> [34] [35 <./4/figures/Zompopo/zompopoFl
+ow.png (PNG copy)>]
+<4/figures/Zompopo/accelerometer.png, id=516, 713.66624pt x 318.43968pt>
+File: 4/figures/Zompopo/accelerometer.png Graphic file (type png)
+
+<use 4/figures/Zompopo/accelerometer.png>
+<4/figures/Zompopo/alg.png, id=517, 397.485pt x 482.80376pt>
+File: 4/figures/Zompopo/alg.png Graphic file (type png)
+
+<use 4/figures/Zompopo/alg.png>
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 43.
+
+(/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+ [36 <./4/figures/Zompopo/accelerometer.png>] [37 <./4/figures/Zompopo/alg.png 
+(PNG copy)>]
+<4/figures/Zompopo/input.png, id=528, 641.39626pt x 189.70876pt>
+File: 4/figures/Zompopo/input.png Graphic file (type png)
+
+<use 4/figures/Zompopo/input.png>
+<4/figures/Zompopo/map.png, id=530, 452.69125pt x 94.3525pt>
+File: 4/figures/Zompopo/map.png Graphic file (type png)
+
+<use 4/figures/Zompopo/map.png> [38 <./4/figures/Zompopo/input.png (PNG copy)> 
+<./4/figures/Zompopo/map.png (PNG copy)>]
+<4/figures/Zompopo/reduce.png, id=537, 786.94pt x 273.02pt>
+File: 4/figures/Zompopo/reduce.png Graphic file (type png)
+
+<use 4/figures/Zompopo/reduce.png> [39 <./4/figures/Zompopo/reduce.png (PNG cop
+y)>] <4/figures/Zompopo/timestamps.png, id=543, 660.21657pt x 540.51938pt>
+File: 4/figures/Zompopo/timestamps.png Graphic file (type png)
+
+<use 4/figures/Zompopo/timestamps.png> [40 <./4/figures/Zompopo/timestamps.png 
+(PNG copy)>]
+<4/figures/Zompopo/AnalysisChart.png, id=548, 422.32782pt x 249.93375pt>
+File: 4/figures/Zompopo/AnalysisChart.png Graphic file (type png)
+
+<use 4/figures/Zompopo/AnalysisChart.png> [41 <./4/figures/Zompopo/AnalysisChar
+t.png>]) (./4/CroudSTag.tex
+<4/figures/CroudSTag/MobileCloudGallery.png, id=556, 722.7pt x 349.305pt>
+File: 4/figures/CroudSTag/MobileCloudGallery.png Graphic file (type png)
+
+<use 4/figures/CroudSTag/MobileCloudGallery.png> [42 <./4/figures/CroudSTag/Mob
+ileCloudGallery.png>]
+<4/figures/CroudSTag/FaceRecognitionScenario.png, id=562, 722.7pt x 542.025pt>
+File: 4/figures/CroudSTag/FaceRecognitionScenario.png Graphic file (type png)
+
+<use 4/figures/CroudSTag/FaceRecognitionScenario.png> [43 <./4/figures/CroudSTa
+g/FaceRecognitionScenario.png>] [44] [45]
+<4/figures/CroudSTag/Timestamps.png, id=580, 667.293pt x 527.0892pt>
+File: 4/figures/CroudSTag/Timestamps.png Graphic file (type png)
+
+<use 4/figures/CroudSTag/Timestamps.png> [46 <./4/figures/CroudSTag/Timestamps.
+png>] <4/figures/CroudSTag/AnalysisChart.png, id=586, 303.0522pt x 244.2726pt>
+File: 4/figures/CroudSTag/AnalysisChart.png Graphic file (type png)
+
+<use 4/figures/CroudSTag/AnalysisChart.png>)) [47 <./4/figures/CroudSTag/Analys
+isChart.png>] [48]
+\openout2 = `5/conclusions.aux'.
+
+ (./5/conclusions.tex
+ 6.
+[49
+
+
+
+] [50]) [51]
+\openout2 = `6/futureresearch.aux'.
+
+ (./6/futureresearch.tex [52
+
+
+
+]
+ 7.
+
+Package natbib Warning: Citation `SriramaJarke:MHESI.09' on page 53 undefined o
+n input line 12.
+
+
+Package natbib Warning: Citation `SriramaETAL:MWSMF.07' on page 53 undefined on
+ input line 12.
+
+[53]) [54] (./thesis.bbl (./thesis.brf)
+\tf@brf=\write7
+\openout7 = `thesis.brf'.
+
+Missing character: There is no í in font cmti7!
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\OT1/cmr/m/sc/6 Gsm Arena\OT1/cmr/m/n/6 .  \OT1/cmr/bx/n/6 Gsm Arena - HTC De
+-sire\OT1/cmr/m/n/6 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/6 http://www.gsmarena.com/htc[]desire-3077.php, 2011.
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[55
+
+
+] (./thesis.aux (./title_page/stardard_page.aux)
+(./0_frontmatter/abstract.aux) (./1_introduction/introduction.aux)
+(./2/stateofart.aux) (./3/researchquestion.aux) (./3/mcm.aux)
+(./4/casestudies.aux) (./5/conclusions.aux) (./6/futureresearch.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5187 strings out of 95086
+ 75300 string characters out of 1183255
+ 135111 words of memory out of 1500000
+ 8013 multiletter control sequences out of 10000+50000
+ 13760 words of font info for 50 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 42i,12n,48p,1528b,464s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf
+-texlive/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type
+1/bluesky/cm/cmbx6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmcsc10
+.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/te
+xmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/t
+ype1/bluesky/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi
+8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/te
+xmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr8.p
+fb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texm
+f-texlive/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/typ
+e1/bluesky/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti7
+.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmtt10.pfb></usr/share/te
+xmf-texlive/fonts/type1/bluesky/ams/msam10.pfb>
+Output written on thesis.pdf (63 pages, 1691203 bytes).
+PDF statistics:
+ 733 PDF objects out of 1000 (max. 8388607)
+ 145 named destinations out of 1000 (max. 131072)
+ 466 words of extra memory for PDF output out of 10000 (max. 10000000)
+
