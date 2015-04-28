@@ -9,7 +9,7 @@ Instructions
 
 (Windows)
 - Install [Lyx](http://www.lyx.org/) and [Miktex](http://miktex.org/)
-- Install IDE [Textmaker](http://www.xm1math.net/texmaker/)
+- Install IDE [Texmaker](http://www.xm1math.net/texmaker/)
 
 (Linux)
 - Install compiler(texlive-latex-base) via console or [synaptic package manager](http://www.nongnu.org/synaptic/)
