@@ -12,5 +12,5 @@ Instructions
 - Install IDE [Textmaker](http://www.xm1math.net/texmaker/)
 
 (Linux)
-- Install compiler(texlive-latex-base) via console or (synaptic package manager)[http://www.nongnu.org/synaptic/]
+- Install compiler(texlive-latex-base) via console or [synaptic package manager](http://www.nongnu.org/synaptic/)
 - Install IDE [Kile](http://kile.sourceforge.net/)
